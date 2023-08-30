@@ -1,4 +1,6 @@
-# Leetcode Problem Pattern
+## Leetcode Problem Pattern
+
+By reading these articles, you can solve multiple problems through a code template, thereby improving practice efficiency.
 
 |  Post       |  Author  | Can Solve Problems |
 |  ----       |  ----    | ----               |  
