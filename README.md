@@ -1,6 +1,11 @@
 ## Leetcode Problem Pattern
 
-By reading these articles, you can solve multiple problems through a code template, thereby improving practice efficiency.
+### Summary
+
+There are many excellent articles here that can solve multiple similar problems through a template. We have organized these resources in hopes of helping everyone.😄
+
+### Table
+
 
 |  Post       |  Author  | Can Solve Problems |
 |  ----       |  ----    | ----               |  
@@ -18,4 +23,3 @@ By reading these articles, you can solve multiple problems through a code templa
 | [Monotonic Queue Summary](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/solutions/204290/monotonic-queue-summary/) | luxy622 | <ul><li>[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)</li><li>[862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)</li></ul> |
 | [[Python] Powerful Ultimate Binary Search Template. Solved many problems](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems) | zhijun_liao | <ul><li>[278. First Bad Version](https://leetcode.com/problems/first-bad-version/)</li><li>[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)</li><li>[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)</li><li>[1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)</li><li>[410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)</li><li>etc.</li></ul> |
 | [[Python] Graph Algorithms One Place for quick revision](https://leetcode.com/discuss/general-discussion/971272/Python-Graph-Algorithms-One-Place-for-quick-revision) | sharmapriyanka2690 | <ul><li>[743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)</li><li>[1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)</li><li>[207. Course Schedule](https://leetcode.com/problems/course-schedule/)</li><li>[547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)</li><li>[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)</li></ul> |
-
